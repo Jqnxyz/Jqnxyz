@@ -6,6 +6,3 @@ Oh and I also do the whole coding thing. That should be the headline actually..
 Do enjoy the following photo of my wonderful girl. Her name's Yuuko!
 
 <img src="https://static.govtech.agency/share/yuuko-github-clear-small-5Nn1kj.jpg" alt="White-grey adult cat, very fluffy, her face takes up the entire photo, and is slightly motion blurred." width=20% height=20%>
-
-
-(also, the sudden lack of activity from late April 2023 onwards is because my company required us all to create new GitHub accounts with company emails instead)
