@@ -5,4 +5,4 @@ Oh and I also do the whole coding thing. That should be the headline actually..
 
 Do enjoy the following photo of my wonderful girl. Her name's Yuuko!
 
-<img src="https://static.govtech.agency/share/yuuko-github-clear-small-5Nn1kj.jpg" alt="White-grey adult cat, very fluffy, her face takes up the entire photo, and is slightly motion blurred." width=20% height=20%>
+<img src="https://static.govtech.agency/share/yuuko-github-small-YkwDJjhzbYnhkO4DnVqc7H3ITHqTFxHt108TIhjpHp2DYTWvogX6iZNbgLE5Bp6jCQUW0ZhAfbIIwTNGyKHclIeX63VdZWwdBJg2.jpg" alt="White-grey adult cat, very fluffy, her face takes up the entire photo, and is slightly motion blurred." width=20% height=20%>
